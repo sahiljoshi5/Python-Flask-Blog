@@ -1,0 +1,28 @@
+{
+
+    "params":
+    {
+        "blog_name": "Sahil Joshi",
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/sahiljoshi",
+        "prod_uri":"mysql://root:@localhost/sahiljoshi",
+        "fb_url":"https://www.facebook.com/profile.php?id=100025107009353",
+        "insta_url":"https://www.instagram.com/joshisahil5/?hl=en",
+        "gmail-user":"sahiljoshi2107@gmail.com",
+        "gmail-password":"(sahilanuanand.!.)",
+        "about_text":"HI,I hope you too have said 'Hi' to me! I am Sahil Joshi and though I don't like English,I have never scored good marks in it,I am not good at speaking and writing it.But I love to do the things which challenge me and my ability.It improves me as a person and points out my mistakes and encourage me to learn more about it.So,that's why I love to create Blogs on various different topics.HAPPY READING! THANK YOU!! ",
+        "no_of_posts":3,
+        "login_image":"login.jpg",
+        "admin_user":"sahil",
+        "admin_password":"(bochu)",
+        "upload_location":"C:\\Users\\hp\\Desktop\\vscode.projects\\Flask.tut\\static"
+        
+
+
+    }
+
+
+
+
+
+}
